@@ -9,6 +9,3 @@ if (environment.production) {
 }
 
 platformBrowserDynamic().bootstrapModule(AppModule);
-
-
-// This comment is added to test sync now for github
